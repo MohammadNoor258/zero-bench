@@ -9,3 +9,5 @@ test-results/
 coverage/
 .vector/
 vector_store.pkl
+
+tsconfig.tsbuildinfo
