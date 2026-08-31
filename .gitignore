@@ -11,3 +11,5 @@ coverage/
 vector_store.pkl
 
 tsconfig.tsbuildinfo
+
+.vector/
